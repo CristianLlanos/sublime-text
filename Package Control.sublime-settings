@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Better CoffeeScript",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"Sass",
+		"SideBarEnhancements",
+		"Terminal",
+		"Vuejs Complete Package"
+	]
+}
