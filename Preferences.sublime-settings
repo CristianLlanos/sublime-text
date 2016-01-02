@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": false,
-	"color_scheme": "Packages/Colorsublime - Themes/peacocks-in-space.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_line_ending": "windows",
 	"font_size": 10,
 	"ignored_packages":
@@ -15,6 +15,11 @@
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
 	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		120
+	],
+	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"theme": "Material-Theme.sublime-theme",
 	"vintage_start_in_command_mode": true
