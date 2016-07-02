@@ -5,8 +5,8 @@
 	"default_line_ending": "windows",
 	"detect_indentation": true,
 	"draw_white_space": "all",
-	"font_size": 10,
 	"font_face": "Input",
+	"font_size": 10,
 	"ignored_packages":
 	[
 	],
