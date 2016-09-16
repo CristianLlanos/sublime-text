@@ -1,0 +1,10 @@
+[
+    { "keys": ["ctrl+alt+n"], "command": "new_snippet" },
+    { "keys": ["n", "n"], "command": "advanced_new_file", "context": [{ "key": "setting.command_mode", "operand": true }] },
+    { "keys": ["super+shift+o"], "command": "prompt_open_folder" },
+    { "keys": ["super+b"], "command": "goto_definition_scope" },
+    { "keys": ["alt+enter"], "command": "find_use" },
+    { "keys": ["f", "f", "e"], "command": "expand_fqcn" },
+    { "keys": ["f", "f", "f"], "command": "focus_file_on_sidebar" },
+    { "keys": ["j", "j"], "command": "exit_insert_mode", "context": [{ "key": "setting.command_mode", "operand": false }, { "key": "setting.is_widget", "operand": false }]}
+]
